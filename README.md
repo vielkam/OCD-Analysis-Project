@@ -14,7 +14,8 @@ In this project I analyse the relationship between OCD severity and family histo
 
 <h2>Project walk-through:</h2>
 
-
+The dataset used for this project was downloaded from Kaggle: OCD Patient Dataset: Demographics and Clinical Data https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data
+This dataset includes information about patients diagnosed with Obsessive-Compulsive Disorder, including patient ID, age, gender, family history of OCD, previous diagnoses, among others. The goal was to analyse the relationships (if any) between these variables and the severity of OCD. 
 
 
 <!--
