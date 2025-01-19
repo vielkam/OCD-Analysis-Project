@@ -7,15 +7,23 @@ In this project I analyse the relationship between OCD severity and family histo
 <br />
 
 
-<h2>Languages and Libraries Used</h2>
+<h2>Languages, Tools and Libraries Used</h2>
 
 - <b>R </b>
-- <b>Libraries: dplyr, ggplot2, reshape2, and vcd</b> 
+- <b>RStudio </b>
+- <b>Libraries: dplyr, ggplot2, reshape2, and vcd</b>
+  
 
 <h2>Project walk-through:</h2>
 
 The dataset used for this project was downloaded from Kaggle: OCD Patient Dataset: Demographics and Clinical Data https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data
 This dataset includes information about patients diagnosed with Obsessive-Compulsive Disorder, including patient ID, age, gender, family history of OCD, previous diagnoses, among others. The goal was to analyse the relationships (if any) between these variables and the severity of OCD. 
+
+
+<h2>R Code:</h2>
+
+
+
 
 
 <!--
